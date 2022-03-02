@@ -1,0 +1,26 @@
+/* Don't change this. */
+skin nether
+slug nether
+main_border_color #000000
+content_border_color #C2C2C2
+footer_border_color #0C0C0C
+widget_title_color #FEFEFE
+widget_li_border #959595
+submenu_border_color #744926
+online_status_color #FEFEFE
+offline_status_color #FEFEFE
+creepy_background_color #1d0909
+creepy_body_color #fff
+creepy_menu_color #e9cb91
+creepy_menu_hover_color #fff
+creepy_slider_color #bebebe
+creepy_heading_color #464646
+creepy_text_color #787878
+creepy_link_color #d3825e
+creepy_link_hover_color #c75610
+creepy_footer_bg_color #222222
+creepy_footer_text_color #959595
+creepy_footer_background 0
+creepy_slider_font_size #eee
+creepy_font opensans
+end;
